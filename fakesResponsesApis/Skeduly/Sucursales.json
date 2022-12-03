@@ -1,0 +1,228 @@
+{
+  "sucursales": [
+    {
+      "sucursal": {
+        "id": "1",
+        "name": "Zacatecas",
+        "lat": "22.771848733817333",
+        "long": "-102.58381448169474"
+      },
+      "staffs": [
+        {
+          "id": "1",
+          "nombre": "Orlando",
+          "sexo": "hombre",
+          "valoracion": 4,
+          "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+        },
+        {
+          "id": "2",
+          "nombre": "Karen",
+          "sexo": "mujer",
+          "valoracion": 5,
+          "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+        },
+        {
+          "id": "3",
+          "nombre": "Glockenspiel Beth",
+          "sexo": "mujer",
+          "valoracion": 5,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/693.jpeg"
+        }
+      ],
+      "services":[
+          {
+              "id": "1",
+              "name": "Unas",
+              "precio": 500
+          },
+          {
+              "id": "2",
+              "name": "Maquillaje",
+              "precio": 200
+          },
+          {
+              "id": "3",
+              "name": "Masaje",
+              "precio": 200
+          },
+          {
+              "id": "4",
+              "name": "Manicura",
+              "precio": 230
+          },
+          {
+              "id": "5",
+              "name": "Pedicura",
+              "precio": 350
+          }
+      ],
+      "products":[
+        {
+          
+        }
+      ]
+    },
+    {
+      "sucursal": {
+        "id": "2",
+        "name": "Mexico",
+        "lat": "23.977477920443206",
+        "long": "-102.43021557989123"
+      },
+      "staffs": [
+        {
+          "id": "1",
+          "nombre": "Phoenixperson",
+          "sexo": "hombre",
+          "valoracion": 5,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/617.jpeg"
+        },
+        {
+          "id": "2",
+          "nombre": "Chris",
+          "sexo": "hombre",
+          "valoracion": 5,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+        },
+        {
+          "id": "3",
+          "nombre": "Lighthouse Keeper",
+          "sexo": "hombre",
+          "valoracion": 3,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/202.jpeg"
+        },
+        {
+          "id": "4",
+          "nombre": "Shmlonathan Shmlower",
+          "sexo": "hombre",
+          "valoracion": 5,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/317.jpeg"
+        },
+        {
+          "id": "5",
+          "nombre": "Kyle",
+          "sexo": "hombre",
+          "valoracion": 4,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/197.jpeg"
+        },
+        {
+          "id": "6",
+          "nombre": "Trunkphobic guy",
+          "sexo": "hombre",
+          "valoracion": 5,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/414.jpeg"
+        }
+      ],
+      "services":[
+          {
+              "id": "1",
+              "name": "Corte de pelo",
+              "precio": 100
+          },
+          {
+              "id": "2",
+              "name": "Arreglo de barba",
+              "precio": 150
+          },
+          {
+              "id": "3",
+              "name": "Mascarilla antipuntos negros",
+              "precio": 350
+          },
+          {
+              "id": "4",
+              "name": "Corte infatil",
+              "precio": 50
+          },
+          {
+              "id": "5",
+              "name": "Pedicura",
+              "precio": 900
+          }
+      ]
+    },
+
+    {
+      "sucursal": {
+        "id": "3",
+        "name": "Guadalajara",
+        "lat": "20.659804226145354",
+        "long": "-103.34811868054197"
+      },
+      "staffs": [
+        {
+          "id": "1",
+          "nombre": "Robot Snake",
+          "sexo": "hombre",
+          "valoracion": 1,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/572.jpeg"
+        },
+        {
+          "id": "2",
+          "nombre": "Memory Geardude",
+          "sexo": "hombre",
+          "valoracion": 5,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/785.jpeg"
+        },
+        {
+          "id": "3",
+          "nombre": "Young Jerry",
+          "sexo": "hombre",
+          "valoracion": 2,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/822.jpeg"
+        },
+        {
+          "id": "4",
+          "nombre": "Michael",
+          "sexo": "hombre",
+          "valoracion": 5,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/567.jpeg"
+        },
+        {
+          "id": "5",
+          "nombre": "80's snake",
+          "sexo": "hombre",
+          "valoracion": 4,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/583.jpeg"
+        },
+        {
+          "id": "6",
+          "nombre": "Blazen",
+          "sexo": "hombre",
+          "valoracion": 4,
+          "image_url": "https://rickandmortyapi.com/api/character/avatar/732.jpeg"
+        }
+
+      ],
+      "services":[
+          {
+              "id": "1",
+              "name": "Delineado de barba y bigote, o cejas",
+              "precio": 150
+          },
+          {
+              "id": "2",
+              "name": "Pedicure y manicure",
+              "precio": 500
+          },
+          {
+              "id": "3",
+              "name": "Mascarilla antipuntos negros",
+              "precio": 350
+          },
+          {
+              "id": "4",
+              "name": " Maquillaje",
+              "precio": 200
+          },
+          {
+              "id": "5",
+              "name": "Pedicura",
+              "precio": 900
+          }
+      ]
+    }
+  ]
+}
+
