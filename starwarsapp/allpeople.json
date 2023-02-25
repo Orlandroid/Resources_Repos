@@ -617,7 +617,7 @@
       "Galactic Empire",
       "Dark Empire"
     ],
-    "masters": "Darth Plagueis",
+    "masters": ["Darth Plagueis"],
     "apprentices": [
       "Darth Maul",
       "A Nikto",
