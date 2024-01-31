@@ -1,0 +1,206 @@
+{
+
+    "questions": [
+        {
+          "id": 1,
+          "question": "¿Que dia de la semala hal no ha trabajado en años?",
+          "correctAnswerId": 4,
+          "answers": [
+            {"id": 1, "text": "Lunes"},
+            {"id": 2, "text": "Martes"},
+            {"id": 3, "text": "Jueves"},
+            {"id": 4, "text": "Viernes"}
+          ]
+        },
+        {
+          "id": 2,
+          "question": "¿Que le enseña reese secretamente a lois?",
+          "correctAnswerId": 3,
+          "answers": [
+            {"id": 1, "text": "¿Como cocinar?"},
+            {"id": 2, "text": "¿Como tocar el piano?"},
+            {"id": 3, "text": "¿Como andar en bici?"},
+            {"id": 4, "text": "¿Como usar el dvd?"}
+          ]
+        },
+        {
+          "id": 3,
+          "question": "¿Como pierde la pierna la abuela?",
+          "correctAnswerId": 2,
+          "answers": [
+            {"id": 1, "text": "¿Tratando de conseguir un dulce de una piñata?"},
+            {"id": 2, "text": "¿Salvando a dewey de ser atropellado?"},
+            {"id": 3, "text": "¿Mordida de un perro?"},
+            {"id": 4, "text": "¿Jugando baskquetball con reese?"}
+          ]
+        },
+        {
+          "id": 4,
+          "question": "¿Cual es el nombre de la primera novia de malcom?",
+          "correctAnswerId": 4,
+          "answers": [
+            {"id": 1, "text": "Diana"},
+            {"id": 2, "text": "Cyntia"},
+            {"id": 3, "text": "Alison"},
+            {"id": 4, "text": "Sarah"}
+          ]
+        },
+        {
+          "id": 5,
+          "question": "¿Cual es el nombre de la esposa de francis?",
+          "correctAnswerId": 1,
+          "answers": [
+            {"id": 1, "text": "Piama"},
+            {"id": 2, "text": "Marita"},
+            {"id": 3, "text": "Franchesta"},
+            {"id": 4, "text": "Audrey"}
+          ]
+        },
+        {
+          "id": 6,
+          "question": "¿Cual es el IQ del malcom?",
+          "correctAnswerId": 2,
+          "answers": [
+            {"id": 1, "text": "140"},
+            {"id": 2, "text": "165"},
+            {"id": 3, "text": "150"},
+            {"id": 4, "text": "180"}
+          ]
+        },
+        {
+          "id": 7,
+          "question": "¿Que hijo nacio segundo?",
+          "correctAnswerId": 3,
+          "answers": [
+            {"id": 1, "text": "Malcom"},
+            {"id": 2, "text": "Francis"},
+            {"id": 3, "text": "Reese"},
+            {"id": 4, "text": "Dewey"}
+          ]
+        },
+        {
+          "id": 8,
+          "question": "¿Cuantas temporadas tiene malcom in the middle?",
+          "correctAnswerId": 1,
+          "answers": [
+            {"id": 1, "text": "7"},
+            {"id": 2, "text": "6"},
+            {"id": 3, "text": "8"},
+            {"id": 4, "text": "5"}
+          ]
+        },
+        {
+          "id": 9,
+          "question": "¿Que amigo de malcom usa silla de ruedas?",
+          "correctAnswerId": 1,
+          "answers": [
+            {"id": 1, "text": "Stevie"},
+            {"id": 2, "text": "Manny"},
+            {"id": 3, "text": "Thomas"},
+            {"id": 4, "text": "Oliver"}
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Qué es lo que consigue Francis después de la huelga de hambre en la escuela militar.",
+          "correctAnswerId": 1,
+          "answers": [
+            {"id": 1, "text": "Un sombrero mágico"},
+            {"id": 2, "text": "Comida para todos"},
+            {"id": 3, "text": "100 quacks"}
+          ]
+        },
+        {
+          "id": 11,
+          "question": "¿Cuando lios imagina sus hijos como mujeres cuales son sus nombres?",
+          "correctAnswerId": 1,
+          "answers": [
+            {"id": 1, "text": "Mallory,Renee and Daisy"},
+            {"id": 2, "text": "Mildred,Rose and Dian"},
+            {"id": 3, "text": "Martha,Rachel and Danielle"},
+            {"id": 4, "text": "Marharet,Receba and Denise"}
+          ]
+        },
+        {
+          "id": 12,
+          "question": "¿De que color es la camiseta de la suerte de dewey?",
+          "correctAnswerId": 1,
+          "answers": [
+            {"id": 1, "text": "Red"},
+            {"id": 2, "text": "Blue"},
+            {"id": 3, "text": "Yellow"},
+            {"id": 4, "text": "Black"}
+          ]
+        },
+        {
+          "id": 13,
+          "question": "El nombre que le pone Dewey al perro que rescata y luego usa para obligar a sus hermanos a obedecerlo.",
+          "correctAnswerId": 3,
+          "answers": [
+            {"id": 1, "text": "Pelusa"},
+            {"id": 2, "text": "Bernado"},
+            {"id": 3, "text": "Caramelo"},
+            {"id": 4, "text": "Fufy"}
+          ]
+        },
+        {
+            "question": "¿Cómo muere el personaje de Malcolm en el juego que juega en la computadora que Hall le compra al vecino?",
+            "correctAnswerId": 4,
+            "answers": [
+              {"id": 1, "text": "Se ahoga de borracho"},
+              {"id": 2, "text": "Se atora debajo de la mesa cuando busca una hamburguesa que se le cayó"},
+              {"id": 3, "text": "Le da un infarto porque es muy gordo"},
+              {"id": 4, "text": "Se apuñala a sí mismo después de hacerse un sándwich"}
+            ]
+          },
+          {
+            "question": "El nombre de la puerquita que usan para molestar a Reese e invitarlo a una cita.",
+            "correctAnswerId": 4,
+            "answers": [
+              {"id": 1, "text": "Karen"},
+              {"id": 2, "text": "Sahara"},
+              {"id": 3, "text": "Leila"},
+              {"id": 4, "text": "Cindy"}
+            ]
+          },
+          {
+            "correctAnswerId": 2,
+            "answers": [
+              {"id": 1, "text": "Un ardilla rabiosa."},
+              {"id": 2, "text": "Un mono capuchino con un pañal."},
+              {"id": 3, "text": "Un perro"}
+            ]
+          },
+          {
+            "question": "El nombre del fuego pirotécnico que dejó ciegos a Malcolm, Reese y Francis.",
+            "correctAnswerId": 1,
+            "answers": [
+              {"id": 1, "text": "Komodo 300"},
+              {"id": 2, "text": "La piedra del diablo"},
+              {"id": 3, "text": "Hipersónico 300"}
+            ]
+          },
+          {
+            "question": "¿Por qué a Dewey le da miedo su abuelo, el papá de Lois?",
+            "correctAnswerId": 4,
+            "answers": [
+              {"id": 1, "text": "Porque un día explotó una granada en el refrigerador"},
+              {"id": 2, "text": "Porque maltrata a Lois"},
+              {"id": 3, "text": "Porque tenía otra familia en Canadá"},
+              {"id": 4, "text": "Porque atropelló su triciclo con su carro"}
+            ]
+          },
+          {
+            "question": "¿Cómo le dicen al grupo de amigos de Malcolm en la escuela?",
+            "correctAnswerId": 1,
+            "answers": [
+              {"id": 1, "text": "Krelboynes"},
+              {"id": 2, "text": "Los nerds"},
+              {"id": 3, "text": "Cerebritos"},
+              {"id": 4, "text": "Los especiales"}
+            ]
+          }
+
+      ]
+
+}
