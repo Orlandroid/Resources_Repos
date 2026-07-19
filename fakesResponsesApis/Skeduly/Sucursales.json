@@ -5,7 +5,13 @@
         "id": "1",
         "name": "Zacatecas",
         "lat": "22.771848733817333",
-        "long": "-102.58381448169474"
+        "long": "-102.58381448169474",
+        "schedule": {
+          "morning_open": "09:00",
+          "morning_close": "14:00",
+          "afternoon_open": "16:00",
+          "afternoon_close": "20:00"
+        }
       },
       "staffs": [
         {
@@ -30,7 +36,7 @@
           "image_url": "https://rickandmortyapi.com/api/character/avatar/693.jpeg"
         }
       ],
-      "services":[
+      "services": [
         {
           "id": "1",
           "name": "Unas",
@@ -57,10 +63,8 @@
           "precio": 350
         }
       ],
-      "products":[
-        {
-
-        }
+      "products": [
+        {}
       ]
     },
     {
@@ -68,7 +72,13 @@
         "id": "2",
         "name": "Mexico",
         "lat": "23.977477920443206",
-        "long": "-102.43021557989123"
+        "long": "-102.43021557989123",
+        "schedule": {
+          "morning_open": "09:00",
+          "morning_close": "14:00",
+          "afternoon_open": "16:00",
+          "afternoon_close": "20:00"
+        }
       },
       "staffs": [
         {
@@ -114,7 +124,7 @@
           "image_url": "https://rickandmortyapi.com/api/character/avatar/414.jpeg"
         }
       ],
-      "services":[
+      "services": [
         {
           "id": "1",
           "name": "Corte de pelo",
@@ -147,7 +157,13 @@
         "id": "3",
         "name": "Guadalajara",
         "lat": "20.659804226145354",
-        "long": "-103.34811868054197"
+        "long": "-103.34811868054197",
+        "schedule": {
+          "morning_open": "09:00",
+          "morning_close": "14:00",
+          "afternoon_open": "16:00",
+          "afternoon_close": "20:00"
+        }
       },
       "staffs": [
         {
@@ -193,7 +209,7 @@
           "image_url": "https://rickandmortyapi.com/api/character/avatar/732.jpeg"
         }
       ],
-      "services":[
+      "services": [
         {
           "id": "1",
           "name": "Delineado de barba y bigote, o cejas",
@@ -226,7 +242,13 @@
         "id": "4",
         "name": "Monterrey",
         "lat": "25.686614527498653",
-        "long": "-100.31609592497002"
+        "long": "-100.31609592497002",
+        "schedule": {
+          "morning_open": "09:00",
+          "morning_close": "14:00",
+          "afternoon_open": "16:00",
+          "afternoon_close": "20:00"
+        }
       },
       "staffs": [
         {
@@ -265,7 +287,7 @@
           "image_url": "https://rickandmortyapi.com/api/character/avatar/117.jpeg"
         }
       ],
-      "services":[
+      "services": [
         {
           "id": "1",
           "name": "Corte de pelo",
@@ -298,7 +320,13 @@
         "id": "5",
         "name": "Puebla",
         "lat": "19.041297539619294",
-        "long": "-98.20629425430956"
+        "long": "-98.20629425430956",
+        "schedule": {
+          "morning_open": "09:00",
+          "morning_close": "14:00",
+          "afternoon_open": "16:00",
+          "afternoon_close": "20:00"
+        }
       },
       "staffs": [
         {
@@ -330,7 +358,7 @@
           "image_url": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
         }
       ],
-      "services":[
+      "services": [
         {
           "id": "1",
           "name": "Corte de pelo",
@@ -363,7 +391,13 @@
         "id": "6",
         "name": "Tijuana",
         "lat": "32.514226648827676",
-        "long": "-117.03651428339481"
+        "long": "-117.03651428339481",
+        "schedule": {
+          "morning_open": "09:00",
+          "morning_close": "14:00",
+          "afternoon_open": "16:00",
+          "afternoon_close": "20:00"
+        }
       },
       "staffs": [
         {
@@ -409,7 +443,7 @@
           "image_url": "https://rickandmortyapi.com/api/character/avatar/310.jpeg"
         }
       ],
-      "services":[
+      "services": [
         {
           "id": "1",
           "name": "Corte de pelo",
@@ -442,7 +476,13 @@
         "id": "7",
         "name": "Querétaro",
         "lat": "20.587681423696296",
-        "long": "-100.38897542786853"
+        "long": "-100.38897542786853",
+        "schedule": {
+          "morning_open": "09:00",
+          "morning_close": "14:00",
+          "afternoon_open": "16:00",
+          "afternoon_close": "20:00"
+        }
       },
       "staffs": [
         {
@@ -474,7 +514,7 @@
           "image_url": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
         }
       ],
-      "services":[
+      "services": [
         {
           "id": "1",
           "name": "Corte de pelo",
@@ -507,7 +547,13 @@
         "id": "8",
         "name": "Mérida",
         "lat": "20.967370268626394",
-        "long": "-89.62313682669476"
+        "long": "-89.62313682669476",
+        "schedule": {
+          "morning_open": "09:00",
+          "morning_close": "14:00",
+          "afternoon_open": "16:00",
+          "afternoon_close": "20:00"
+        }
       },
       "staffs": [
         {
@@ -546,7 +592,7 @@
           "image_url": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
         }
       ],
-      "services":[
+      "services": [
         {
           "id": "1",
           "name": "Corte de pelo",
