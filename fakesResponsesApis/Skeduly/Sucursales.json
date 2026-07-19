@@ -7,10 +7,10 @@
         "lat": "22.771848733817333",
         "long": "-102.58381448169474",
         "schedule": {
-          "morning_open": "09:00",
-          "morning_close": "14:00",
-          "afternoon_open": "16:00",
-          "afternoon_close": "20:00"
+          "morning_open": "10:00",
+          "morning_close": "13:30",
+          "afternoon_open": "15:15",
+          "afternoon_close": "19:00"
         }
       },
       "staffs": [
@@ -74,10 +74,10 @@
         "lat": "23.977477920443206",
         "long": "-102.43021557989123",
         "schedule": {
-          "morning_open": "09:00",
+          "morning_open": "10:00",
           "morning_close": "14:00",
-          "afternoon_open": "16:00",
-          "afternoon_close": "20:00"
+          "afternoon_open": "15:00",
+          "afternoon_close": "19:15"
         }
       },
       "staffs": [
@@ -159,10 +159,10 @@
         "lat": "20.659804226145354",
         "long": "-103.34811868054197",
         "schedule": {
-          "morning_open": "09:00",
-          "morning_close": "14:00",
-          "afternoon_open": "16:00",
-          "afternoon_close": "20:00"
+          "morning_open": "10:00",
+          "morning_close": "13:45",
+          "afternoon_open": "15:45",
+          "afternoon_close": "21:30"
         }
       },
       "staffs": [
@@ -244,10 +244,10 @@
         "lat": "25.686614527498653",
         "long": "-100.31609592497002",
         "schedule": {
-          "morning_open": "09:00",
-          "morning_close": "14:00",
-          "afternoon_open": "16:00",
-          "afternoon_close": "20:00"
+          "morning_open": "08:15",
+          "morning_close": "14:30",
+          "afternoon_open": "16:15",
+          "afternoon_close": "19:30"
         }
       },
       "staffs": [
@@ -322,10 +322,10 @@
         "lat": "19.041297539619294",
         "long": "-98.20629425430956",
         "schedule": {
-          "morning_open": "09:00",
+          "morning_open": "08:00",
           "morning_close": "14:00",
-          "afternoon_open": "16:00",
-          "afternoon_close": "20:00"
+          "afternoon_open": "16:30",
+          "afternoon_close": "21:30"
         }
       },
       "staffs": [
@@ -393,10 +393,10 @@
         "lat": "32.514226648827676",
         "long": "-117.03651428339481",
         "schedule": {
-          "morning_open": "09:00",
-          "morning_close": "14:00",
-          "afternoon_open": "16:00",
-          "afternoon_close": "20:00"
+          "morning_open": "08:45",
+          "morning_close": "13:45",
+          "afternoon_open": "15:30",
+          "afternoon_close": "21:30"
         }
       },
       "staffs": [
@@ -478,9 +478,9 @@
         "lat": "20.587681423696296",
         "long": "-100.38897542786853",
         "schedule": {
-          "morning_open": "09:00",
-          "morning_close": "14:00",
-          "afternoon_open": "16:00",
+          "morning_open": "10:15",
+          "morning_close": "13:00",
+          "afternoon_open": "17:15",
           "afternoon_close": "20:00"
         }
       },
@@ -549,10 +549,10 @@
         "lat": "20.967370268626394",
         "long": "-89.62313682669476",
         "schedule": {
-          "morning_open": "09:00",
-          "morning_close": "14:00",
-          "afternoon_open": "16:00",
-          "afternoon_close": "20:00"
+          "morning_open": "08:00",
+          "morning_close": "14:30",
+          "afternoon_open": "16:30",
+          "afternoon_close": "19:30"
         }
       },
       "staffs": [
