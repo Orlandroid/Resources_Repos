@@ -14,27 +14,9 @@
         }
       },
       "staffs": [
-        {
-          "id": "1",
-          "nombre": "Orlando",
-          "sexo": "male",
-          "valoracion": 4,
-          "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
-        },
-        {
-          "id": "2",
-          "nombre": "Karen",
-          "sexo": "female",
-          "valoracion": 5,
-          "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
-        },
-        {
-          "id": "3",
-          "nombre": "Glockenspiel Beth",
-          "sexo": "female",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/693.jpeg"
-        }
+        { "id": "1", "nombre": "Orlando", "sexo": "male", "valoracion": 4, "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" },
+        { "id": "2", "nombre": "Karen", "sexo": "female", "valoracion": 5, "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" },
+        { "id": "3", "nombre": "Glockenspiel Beth", "sexo": "female", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/693.jpeg" }
       ],
       "services": [
         { "id": "1", "name": "Nails", "precio": 500, "durationInMinutes": 60 },
@@ -75,8 +57,7 @@
     },
     {
       "sucursal": {
-        "id": "3",
-        "name": "Guadalajara",
+        "id": "3", "name": "Guadalajara",
         "lat": "20.659804226145354",
         "long": "-103.34811868054197",
         "schedule": {
@@ -104,8 +85,7 @@
     },
     {
       "sucursal": {
-        "id": "4",
-        "name": "Monterrey",
+        "id": "4", "name": "Monterrey",
         "lat": "25.686614527498653",
         "long": "-100.31609592497002",
         "schedule": {
@@ -132,8 +112,7 @@
     },
     {
       "sucursal": {
-        "id": "5",
-        "name": "Puebla",
+        "id": "5", "name": "Puebla",
         "lat": "19.041297539619294",
         "long": "-98.20629425430956",
         "schedule": {
@@ -155,6 +134,87 @@
         { "id": "3", "name": "Hair Coloring", "precio": 400, "durationInMinutes": 90 },
         { "id": "4", "name": "Kids Haircut", "precio": 55, "durationInMinutes": 20 },
         { "id": "5", "name": "Blackhead Removal Mask", "precio": 320, "durationInMinutes": 30 }
+      ]
+    },
+    {
+      "sucursal": {
+        "id": "6", "name": "Tijuana",
+        "lat": "32.514226648827676",
+        "long": "-117.03651428339481",
+        "schedule": {
+          "morning_open": "08:45",
+          "morning_close": "13:45",
+          "afternoon_open": "15:30",
+          "afternoon_close": "21:30"
+        }
+      },
+      "staffs": [
+        { "id": "1", "nombre": "Supernova", "sexo": "female", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/333.jpeg" },
+        { "id": "2", "nombre": "Noob Noob", "sexo": "male", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/264.jpeg" },
+        { "id": "3", "nombre": "Jaguar", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/179.jpeg" },
+        { "id": "4", "nombre": "Antenna Rick", "sexo": "male", "valoracion": 2, "image_url": "https://rickandmortyapi.com/api/character/avatar/20.jpeg" },
+        { "id": "5", "nombre": "Arthricia", "sexo": "female", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/27.jpeg" },
+        { "id": "6", "nombre": "Scary Terry", "sexo": "male", "valoracion": 3, "image_url": "https://rickandmortyapi.com/api/character/avatar/310.jpeg" }
+      ],
+      "services": [
+        { "id": "1", "name": "Haircut", "precio": 110, "durationInMinutes": 30 },
+        { "id": "2", "name": "Beard Trim", "precio": 140, "durationInMinutes": 20 },
+        { "id": "3", "name": "Classic Straight Razor Shave", "precio": 180, "durationInMinutes": 30 },
+        { "id": "4", "name": "Kids Haircut", "precio": 60, "durationInMinutes": 20 },
+        { "id": "5", "name": "Hair Hydration", "precio": 280, "durationInMinutes": 45 }
+      ]
+    },
+    {
+      "sucursal": {
+        "id": "7", "name": "Querétaro",
+        "lat": "20.587681423696296",
+        "long": "-100.38897542786853",
+        "schedule": {
+          "morning_open": "10:15",
+          "morning_close": "13:00",
+          "afternoon_open": "17:15",
+          "afternoon_close": "20:00"
+        }
+      },
+      "staffs": [
+        { "id": "1", "nombre": "Hamurai", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/167.jpeg" },
+        { "id": "2", "nombre": "Frankenstein's Monster", "sexo": "male", "valoracion": 3, "image_url": "https://rickandmortyapi.com/api/character/avatar/144.jpeg" },
+        { "id": "3", "nombre": "Amish Cyborg", "sexo": "male", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/11.jpeg" },
+        { "id": "4", "nombre": "Aqua Morty", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/22.jpeg" }
+      ],
+      "services": [
+        { "id": "1", "name": "Haircut", "precio": 100, "durationInMinutes": 30 },
+        { "id": "2", "name": "Beard Trim", "precio": 150, "durationInMinutes": 20 },
+        { "id": "3", "name": "Eyebrow Shaping", "precio": 120, "durationInMinutes": 15 },
+        { "id": "4", "name": "Kids Haircut", "precio": 60, "durationInMinutes": 20 },
+        { "id": "5", "name": "Blackhead Removal Mask", "precio": 340, "durationInMinutes": 30 }
+      ]
+    },
+    {
+      "sucursal": {
+        "id": "8", "name": "Mérida",
+        "lat": "20.967370268626394",
+        "long": "-89.62313682669476",
+        "schedule": {
+          "morning_open": "08:00",
+          "morning_close": "14:30",
+          "afternoon_open": "16:30",
+          "afternoon_close": "19:30"
+        }
+      },
+      "staffs": [
+        { "id": "1", "nombre": "Blim Blam", "sexo": "male", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/50.jpeg" },
+        { "id": "2", "nombre": "Pencilvester", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/285.jpeg" },
+        { "id": "3", "nombre": "Ghost in a Jar", "sexo": "male", "valoracion": 3, "image_url": "https://rickandmortyapi.com/api/character/avatar/152.jpeg" },
+        { "id": "4", "nombre": "Revolio Clockberg Jr.", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/153.jpeg" },
+        { "id": "5", "nombre": "Morty Jr.", "sexo": "male", "valoracion": 2, "image_url": "https://rickandmortyapi.com/api/character/avatar/239.jpeg" }
+      ],
+      "services": [
+        { "id": "1", "name": "Haircut", "precio": 85, "durationInMinutes": 30 },
+        { "id": "2", "name": "Beard Trim", "precio": 120, "durationInMinutes": 20 },
+        { "id": "3", "name": "Classic Straight Razor Shave", "precio": 170, "durationInMinutes": 30 },
+        { "id": "4", "name": "Kids Haircut", "precio": 50, "durationInMinutes": 20 },
+        { "id": "5", "name": "Hair Coloring", "precio": 380, "durationInMinutes": 90 }
       ]
     }
   ]
