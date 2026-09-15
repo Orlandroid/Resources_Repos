@@ -17,60 +17,37 @@
         {
           "id": "1",
           "nombre": "Orlando",
-          "sexo": "hombre",
+          "sexo": "male",
           "valoracion": 4,
           "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
         },
         {
           "id": "2",
           "nombre": "Karen",
-          "sexo": "mujer",
+          "sexo": "female",
           "valoracion": 5,
           "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
         },
         {
           "id": "3",
           "nombre": "Glockenspiel Beth",
-          "sexo": "mujer",
+          "sexo": "female",
           "valoracion": 5,
           "image_url": "https://rickandmortyapi.com/api/character/avatar/693.jpeg"
         }
       ],
       "services": [
-        {
-          "id": "1",
-          "name": "Unas",
-          "precio": 500
-        },
-        {
-          "id": "2",
-          "name": "Maquillaje",
-          "precio": 200
-        },
-        {
-          "id": "3",
-          "name": "Masaje",
-          "precio": 200
-        },
-        {
-          "id": "4",
-          "name": "Manicura",
-          "precio": 230
-        },
-        {
-          "id": "5",
-          "name": "Pedicura",
-          "precio": 350
-        }
-      ],
-      "products": [
-        {}
+        { "id": "1", "name": "Nails", "precio": 500, "durationInMinutes": 60 },
+        { "id": "2", "name": "Makeup", "precio": 200, "durationInMinutes": 45 },
+        { "id": "3", "name": "Massage", "precio": 200, "durationInMinutes": 60 },
+        { "id": "4", "name": "Manicure", "precio": 230, "durationInMinutes": 40 },
+        { "id": "5", "name": "Pedicure", "precio": 350, "durationInMinutes": 45 }
       ]
     },
     {
       "sucursal": {
         "id": "2",
-        "name": "Mexico",
+        "name": "Mexico City",
         "lat": "23.977477920443206",
         "long": "-102.43021557989123",
         "schedule": {
@@ -81,75 +58,19 @@
         }
       },
       "staffs": [
-        {
-          "id": "1",
-          "nombre": "Phoenixperson",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/617.jpeg"
-        },
-        {
-          "id": "2",
-          "nombre": "Chris",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
-        },
-        {
-          "id": "3",
-          "nombre": "Lighthouse Keeper",
-          "sexo": "hombre",
-          "valoracion": 3,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/202.jpeg"
-        },
-        {
-          "id": "4",
-          "nombre": "Shmlonathan Shmlower",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/317.jpeg"
-        },
-        {
-          "id": "5",
-          "nombre": "Kyle",
-          "sexo": "hombre",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/197.jpeg"
-        },
-        {
-          "id": "6",
-          "nombre": "Trunkphobic guy",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/414.jpeg"
-        }
+        { "id": "1", "nombre": "Phoenixperson", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/617.jpeg" },
+        { "id": "2", "nombre": "Chris", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/65.jpeg" },
+        { "id": "3", "nombre": "Lighthouse Keeper", "sexo": "male", "valoracion": 3, "image_url": "https://rickandmortyapi.com/api/character/avatar/202.jpeg" },
+        { "id": "4", "nombre": "Shmlonathan Shmlower", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/317.jpeg" },
+        { "id": "5", "nombre": "Kyle", "sexo": "male", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/197.jpeg" },
+        { "id": "6", "nombre": "Trunkphobic guy", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/414.jpeg" }
       ],
       "services": [
-        {
-          "id": "1",
-          "name": "Corte de pelo",
-          "precio": 100
-        },
-        {
-          "id": "2",
-          "name": "Arreglo de barba",
-          "precio": 150
-        },
-        {
-          "id": "3",
-          "name": "Mascarilla antipuntos negros",
-          "precio": 350
-        },
-        {
-          "id": "4",
-          "name": "Corte infatil",
-          "precio": 50
-        },
-        {
-          "id": "5",
-          "name": "Pedicura",
-          "precio": 900
-        }
+        { "id": "1", "name": "Haircut", "precio": 100, "durationInMinutes": 30 },
+        { "id": "2", "name": "Beard Trim", "precio": 150, "durationInMinutes": 20 },
+        { "id": "3", "name": "Blackhead Removal Mask", "precio": 350, "durationInMinutes": 30 },
+        { "id": "4", "name": "Kids Haircut", "precio": 50, "durationInMinutes": 20 },
+        { "id": "5", "name": "Pedicure", "precio": 900, "durationInMinutes": 45 }
       ]
     },
     {
@@ -166,75 +87,19 @@
         }
       },
       "staffs": [
-        {
-          "id": "1",
-          "nombre": "Robot Snake",
-          "sexo": "hombre",
-          "valoracion": 1,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/572.jpeg"
-        },
-        {
-          "id": "2",
-          "nombre": "Memory Geardude",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/785.jpeg"
-        },
-        {
-          "id": "3",
-          "nombre": "Young Jerry",
-          "sexo": "hombre",
-          "valoracion": 2,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/822.jpeg"
-        },
-        {
-          "id": "4",
-          "nombre": "Michael",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/567.jpeg"
-        },
-        {
-          "id": "5",
-          "nombre": "80's snake",
-          "sexo": "hombre",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/583.jpeg"
-        },
-        {
-          "id": "6",
-          "nombre": "Blazen",
-          "sexo": "hombre",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/732.jpeg"
-        }
+        { "id": "1", "nombre": "Robot Snake", "sexo": "male", "valoracion": 1, "image_url": "https://rickandmortyapi.com/api/character/avatar/572.jpeg" },
+        { "id": "2", "nombre": "Memory Geardude", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/785.jpeg" },
+        { "id": "3", "nombre": "Young Jerry", "sexo": "male", "valoracion": 2, "image_url": "https://rickandmortyapi.com/api/character/avatar/822.jpeg" },
+        { "id": "4", "nombre": "Michael", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/567.jpeg" },
+        { "id": "5", "nombre": "80's snake", "sexo": "male", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/583.jpeg" },
+        { "id": "6", "nombre": "Blazen", "sexo": "male", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/732.jpeg" }
       ],
       "services": [
-        {
-          "id": "1",
-          "name": "Delineado de barba y bigote, o cejas",
-          "precio": 150
-        },
-        {
-          "id": "2",
-          "name": "Pedicure y manicure",
-          "precio": 500
-        },
-        {
-          "id": "3",
-          "name": "Mascarilla antipuntos negros",
-          "precio": 350
-        },
-        {
-          "id": "4",
-          "name": " Maquillaje",
-          "precio": 200
-        },
-        {
-          "id": "5",
-          "name": "Pedicura",
-          "precio": 900
-        }
+        { "id": "1", "name": "Beard and Mustache Shaping", "precio": 150, "durationInMinutes": 25 },
+        { "id": "2", "name": "Pedicure and Manicure", "precio": 500, "durationInMinutes": 80 },
+        { "id": "3", "name": "Blackhead Removal Mask", "precio": 350, "durationInMinutes": 30 },
+        { "id": "4", "name": "Makeup", "precio": 200, "durationInMinutes": 45 },
+        { "id": "5", "name": "Pedicure", "precio": 900, "durationInMinutes": 45 }
       ]
     },
     {
@@ -251,68 +116,18 @@
         }
       },
       "staffs": [
-        {
-          "id": "1",
-          "nombre": "Toxic Rick",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/361.jpeg"
-        },
-        {
-          "id": "2",
-          "nombre": "Presidentress",
-          "sexo": "mujer",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/438.jpeg"
-        },
-        {
-          "id": "3",
-          "nombre": "Gear Head",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/148.jpeg"
-        },
-        {
-          "id": "4",
-          "nombre": "Alien Rick",
-          "sexo": "hombre",
-          "valoracion": 3,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
-        },
-        {
-          "id": "5",
-          "nombre": "Doris",
-          "sexo": "mujer",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/117.jpeg"
-        }
+        { "id": "1", "nombre": "Toxic Rick", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/361.jpeg" },
+        { "id": "2", "nombre": "Presidentress", "sexo": "female", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/438.jpeg" },
+        { "id": "3", "nombre": "Gear Head", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/148.jpeg" },
+        { "id": "4", "nombre": "Alien Rick", "sexo": "male", "valoracion": 3, "image_url": "https://rickandmortyapi.com/api/character/avatar/15.jpeg" },
+        { "id": "5", "nombre": "Doris", "sexo": "female", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/117.jpeg" }
       ],
       "services": [
-        {
-          "id": "1",
-          "name": "Corte de pelo",
-          "precio": 120
-        },
-        {
-          "id": "2",
-          "name": "Arreglo de barba",
-          "precio": 160
-        },
-        {
-          "id": "3",
-          "name": "Mascarilla antipuntos negros",
-          "precio": 380
-        },
-        {
-          "id": "4",
-          "name": "Corte infantil",
-          "precio": 70
-        },
-        {
-          "id": "5",
-          "name": "Afeitado clásico con navaja",
-          "precio": 200
-        }
+        { "id": "1", "name": "Haircut", "precio": 120, "durationInMinutes": 30 },
+        { "id": "2", "name": "Beard Trim", "precio": 160, "durationInMinutes": 20 },
+        { "id": "3", "name": "Blackhead Removal Mask", "precio": 380, "durationInMinutes": 30 },
+        { "id": "4", "name": "Kids Haircut", "precio": 70, "durationInMinutes": 20 },
+        { "id": "5", "name": "Classic Straight Razor Shave", "precio": 200, "durationInMinutes": 30 }
       ]
     },
     {
@@ -329,295 +144,17 @@
         }
       },
       "staffs": [
-        {
-          "id": "1",
-          "nombre": "Birdperson",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
-        },
-        {
-          "id": "2",
-          "nombre": "Squanchy",
-          "sexo": "hombre",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
-        },
-        {
-          "id": "3",
-          "nombre": "Mr. Meeseeks",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/242.jpeg"
-        },
-        {
-          "id": "4",
-          "nombre": "Abadango Cluster Princess",
-          "sexo": "mujer",
-          "valoracion": 3,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
-        }
+        { "id": "1", "nombre": "Birdperson", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/45.jpeg" },
+        { "id": "2", "nombre": "Squanchy", "sexo": "male", "valoracion": 4, "image_url": "https://rickandmortyapi.com/api/character/avatar/329.jpeg" },
+        { "id": "3", "nombre": "Mr. Meeseeks", "sexo": "male", "valoracion": 5, "image_url": "https://rickandmortyapi.com/api/character/avatar/242.jpeg" },
+        { "id": "4", "nombre": "Abadango Cluster Princess", "sexo": "female", "valoracion": 3, "image_url": "https://rickandmortyapi.com/api/character/avatar/2.jpeg" }
       ],
       "services": [
-        {
-          "id": "1",
-          "name": "Corte de pelo",
-          "precio": 90
-        },
-        {
-          "id": "2",
-          "name": "Arreglo de barba",
-          "precio": 130
-        },
-        {
-          "id": "3",
-          "name": "Tinte de cabello",
-          "precio": 400
-        },
-        {
-          "id": "4",
-          "name": "Corte infantil",
-          "precio": 55
-        },
-        {
-          "id": "5",
-          "name": "Mascarilla antipuntos negros",
-          "precio": 320
-        }
-      ]
-    },
-    {
-      "sucursal": {
-        "id": "6",
-        "name": "Tijuana",
-        "lat": "32.514226648827676",
-        "long": "-117.03651428339481",
-        "schedule": {
-          "morning_open": "08:45",
-          "morning_close": "13:45",
-          "afternoon_open": "15:30",
-          "afternoon_close": "21:30"
-        }
-      },
-      "staffs": [
-        {
-          "id": "1",
-          "nombre": "Supernova",
-          "sexo": "mujer",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/333.jpeg"
-        },
-        {
-          "id": "2",
-          "nombre": "Noob Noob",
-          "sexo": "hombre",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/264.jpeg"
-        },
-        {
-          "id": "3",
-          "nombre": "Jaguar",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/179.jpeg"
-        },
-        {
-          "id": "4",
-          "nombre": "Antenna Rick",
-          "sexo": "hombre",
-          "valoracion": 2,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
-        },
-        {
-          "id": "5",
-          "nombre": "Arthricia",
-          "sexo": "mujer",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/27.jpeg"
-        },
-        {
-          "id": "6",
-          "nombre": "Scary Terry",
-          "sexo": "hombre",
-          "valoracion": 3,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/310.jpeg"
-        }
-      ],
-      "services": [
-        {
-          "id": "1",
-          "name": "Corte de pelo",
-          "precio": 110
-        },
-        {
-          "id": "2",
-          "name": "Arreglo de barba",
-          "precio": 140
-        },
-        {
-          "id": "3",
-          "name": "Afeitado clásico con navaja",
-          "precio": 180
-        },
-        {
-          "id": "4",
-          "name": "Corte infantil",
-          "precio": 60
-        },
-        {
-          "id": "5",
-          "name": "Hidratación capilar",
-          "precio": 280
-        }
-      ]
-    },
-    {
-      "sucursal": {
-        "id": "7",
-        "name": "Querétaro",
-        "lat": "20.587681423696296",
-        "long": "-100.38897542786853",
-        "schedule": {
-          "morning_open": "10:15",
-          "morning_close": "13:00",
-          "afternoon_open": "17:15",
-          "afternoon_close": "20:00"
-        }
-      },
-      "staffs": [
-        {
-          "id": "1",
-          "nombre": "Hamurai",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/167.jpeg"
-        },
-        {
-          "id": "2",
-          "nombre": "Frankenstein's Monster",
-          "sexo": "hombre",
-          "valoracion": 3,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/144.jpeg"
-        },
-        {
-          "id": "3",
-          "nombre": "Amish Cyborg",
-          "sexo": "hombre",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
-        },
-        {
-          "id": "4",
-          "nombre": "Aqua Morty",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
-        }
-      ],
-      "services": [
-        {
-          "id": "1",
-          "name": "Corte de pelo",
-          "precio": 100
-        },
-        {
-          "id": "2",
-          "name": "Arreglo de barba",
-          "precio": 150
-        },
-        {
-          "id": "3",
-          "name": "Delineado de cejas",
-          "precio": 120
-        },
-        {
-          "id": "4",
-          "name": "Corte infantil",
-          "precio": 60
-        },
-        {
-          "id": "5",
-          "name": "Mascarilla antipuntos negros",
-          "precio": 340
-        }
-      ]
-    },
-    {
-      "sucursal": {
-        "id": "8",
-        "name": "Mérida",
-        "lat": "20.967370268626394",
-        "long": "-89.62313682669476",
-        "schedule": {
-          "morning_open": "08:00",
-          "morning_close": "14:30",
-          "afternoon_open": "16:30",
-          "afternoon_close": "19:30"
-        }
-      },
-      "staffs": [
-        {
-          "id": "1",
-          "nombre": "Blim Blam",
-          "sexo": "hombre",
-          "valoracion": 4,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
-        },
-        {
-          "id": "2",
-          "nombre": "Pencilvester",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/285.jpeg"
-        },
-        {
-          "id": "3",
-          "nombre": "Ghost in a Jar",
-          "sexo": "hombre",
-          "valoracion": 3,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/152.jpeg"
-        },
-        {
-          "id": "4",
-          "nombre": "Revolio Clockberg Jr.",
-          "sexo": "hombre",
-          "valoracion": 5,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/153.jpeg"
-        },
-        {
-          "id": "5",
-          "nombre": "Morty Jr.",
-          "sexo": "hombre",
-          "valoracion": 2,
-          "image_url": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
-        }
-      ],
-      "services": [
-        {
-          "id": "1",
-          "name": "Corte de pelo",
-          "precio": 85
-        },
-        {
-          "id": "2",
-          "name": "Arreglo de barba",
-          "precio": 120
-        },
-        {
-          "id": "3",
-          "name": "Afeitado clásico con navaja",
-          "precio": 170
-        },
-        {
-          "id": "4",
-          "name": "Corte infantil",
-          "precio": 50
-        },
-        {
-          "id": "5",
-          "name": "Tinte de cabello",
-          "precio": 380
-        }
+        { "id": "1", "name": "Haircut", "precio": 90, "durationInMinutes": 30 },
+        { "id": "2", "name": "Beard Trim", "precio": 130, "durationInMinutes": 20 },
+        { "id": "3", "name": "Hair Coloring", "precio": 400, "durationInMinutes": 90 },
+        { "id": "4", "name": "Kids Haircut", "precio": 55, "durationInMinutes": 20 },
+        { "id": "5", "name": "Blackhead Removal Mask", "precio": 320, "durationInMinutes": 30 }
       ]
     }
   ]
